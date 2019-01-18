@@ -1,2 +1,4 @@
 name: foobar
 test.x.foobar: kauli
+info:
+ description: Training configuration repo
